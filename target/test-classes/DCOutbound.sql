@@ -1,0 +1,1 @@
+SELECT student_id, student_name FROM workspace.student LIMIT ?;

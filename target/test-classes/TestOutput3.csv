@@ -1,0 +1,9 @@
+"S.No","Scenario","Value","Scenario","Value"
+"1","DCOutbound","student_name;John
+student_id;1
+<>
+","DCInbound","student_name;John
+student_id;1
+<>
+"
+""

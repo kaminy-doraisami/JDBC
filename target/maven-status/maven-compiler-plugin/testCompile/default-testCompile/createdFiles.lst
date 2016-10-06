@@ -1,0 +1,4 @@
+com\app\service\jdbc\ConnectionManagerTest.class
+com\app\service\jdbc\QueryExecutorTest.class
+com\util\processor\FileProcessorTest.class
+com\util\common\CustomStringUtilTest.class

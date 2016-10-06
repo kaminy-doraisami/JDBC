@@ -1,0 +1,4 @@
+S.No,Scenario,Value,Scenario,Value,WrongCol1,WrongCol2
+1,DCOutbound,#DCOutbound.sql,DCInbound,#DCInbound.sql,WrongInput1,WrongInput2
+2,CHOutbound,#CHOutbound.sql,CHInbound,#CHInbound.sql
+#WrongColOrder,3,CHOutbound,NoSufficientCols
